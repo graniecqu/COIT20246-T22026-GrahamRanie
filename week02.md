@@ -1,10 +1,10 @@
 # Week 2 | Computer Systems and Applications
 ## Task 1. Knowledge test results
-![KnowledgeTest Screenshot](./images/Week2_Results.png)
+![KnowledgeTest Screenshot](./IMAGES/Week2_Results.png)
 ## Task 2. View Computer Information
 Records values of the computer info (ram, CPU etc)
 
-![ComputerInformation Screenshot](./images/Week2-task2-computerinfo.png)
+![ComputerInformation Screenshot](./IMAGES/Week2-task2-computerinfo.png)
 ## Task 3. Deploy Linux Web Server
 The kernel used for this is Linux. This was located in the OS details under the General Tab. It can run Linux 2.6 up to 5.x. I struggled to locate the Boot Manager - I assumed it shows under the System tab > Boot Order. Which for this is _Floppy Optical Hard Disk._But this could just refer to the drivers that get loaded. 
 
