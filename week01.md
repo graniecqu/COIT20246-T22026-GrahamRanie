@@ -16,4 +16,4 @@ When I think about networking and cybersecurity, I have a basic understanding: a
 ## Task 5. Knowledge Test Score
 
 The following is a screenshot of my Knowledge Test score:
-![KnowledgeTest Screenshot](./images/Week1_Results2.png)
+![KnowledgeTest Screenshot](/images/Week1_Results2.png)
