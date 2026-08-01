@@ -16,7 +16,7 @@ Storage: 477 GB
 
 ![ComputerInformation Screenshot](./IMAGES/Week2-task2-computerinfo.png)
 ## Task 3. Deploy Linux Web Server
-The kernel used for this is Linux. This was located in the OS details under the General Tab. It can run Linux 2.6 up to 5.x. I struggled to locate the Boot Manager - I assumed it shows under the System tab > Boot Order. Which for this is _Floppy Optical Hard Disk._But this could just refer to the drivers that get loaded. 
+The kernel used for this is Linux. This was located in the OS details under the General Tab. It can run Linux 2.6 up to 5.x. Teh Boot Manager is for this is Grub. 
 
 ### My description of VirtualBox and OpenWRT.
 VirtualBox is an application that allows users to operate computers in a virtual space. The computer connects to an external server that allows you to access other operating systems. I'm not entirely familiar with what OpenWRT is prior to starting this course, but I imagine it might have something to do with Linux.
