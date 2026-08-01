@@ -4,10 +4,15 @@
 ## Task 2. View Computer Information
 Records values of the computer info:
 CPU: 2.20Ghz
+
 RAM Installed: 34131087360 byte
+
 RAM Visible: 34359738368 byte
+
 Storage: 477 GB
 ![ComputerInformation Screenshot](./IMAGES/Week2-task2-computerinfo3.png)
+
+![ComputerInformation Screenshot](./IMAGES/Week2-task2-computerinfo4.png)
 
 ![ComputerInformation Screenshot](./IMAGES/Week2-task2-computerinfo.png)
 ## Task 3. Deploy Linux Web Server
