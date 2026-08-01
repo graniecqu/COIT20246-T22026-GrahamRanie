@@ -4,7 +4,8 @@
 ## Task 2. View Computer Information
 Records values of the computer info:
 CPU: 2.20Ghz
-RAM: 32.0 GB
+RAM Installed: 34131087360 byte
+RAM Visible: 34359738368 byte
 Storage: 477 GB
 
 ![ComputerInformation Screenshot](./IMAGES/Week2-task2-computerinfo.png)
