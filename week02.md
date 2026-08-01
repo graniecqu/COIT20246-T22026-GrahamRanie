@@ -32,5 +32,10 @@ I was fairly spot on with the VirtualBox description. The name suggests that a d
 
 
 ## Task 4. Browse to OpenWRT Websites
-Include your journal entry here.
+![ComputerInformation Screenshot](./IMAGES/Week2-task4-openwrt.png)
 
+![ComputerInformation Screenshot](./IMAGES/Week2-task4-memory.png)
+
+![ComputerInformation Screenshot](./IMAGES/Week2-task4-network.png)
+
+![ComputerInformation Screenshot](./IMAGES/Week2-task4-storage.png)
