@@ -13,4 +13,4 @@ This also shows the IP Address of my WiFi router as 172.16.11.189.
 
 ## Task 3. 
 
-![KnowledgeTest Screenshot](./IMAGES/
+![Task3 Screenshot](./IMAGES/Week3_Task3_Ping.png)
