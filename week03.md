@@ -8,7 +8,7 @@ The command Net-GetIPAddress shows a list of all the addresses on my computer. T
 
 192.168.56.1
 
-and this is the IP address for my WiFi router.
+This also shows the IP Address of my WiFi router as 172.16.11.189.
 
 
 ## Task 3. 
