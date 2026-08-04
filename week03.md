@@ -1,3 +1,7 @@
 # Week 3 Journal Entry
 
-Will be added soon.
+## Task 1. Knowledge test results
+![KnowledgeTest Screenshot](./IMAGES/Week2_Results.png)
+## Task 2.
+
+## Task 3. 
