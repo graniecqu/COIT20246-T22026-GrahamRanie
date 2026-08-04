@@ -13,4 +13,9 @@ This also shows the IP Address of my WiFi router as 172.16.11.189.
 
 ## Task 3. 
 ![Task3 Screenshot](./IMAGES/Week3_Task3_Router.png)
+
+The image above displays the IP address for my local router (WiFi).
+
 ![Task3 Screenshot](./IMAGES/Week3_Task3_Ping.png)
+
+The image above displays the ping test that I conducted on my router in CMD.
