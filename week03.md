@@ -4,7 +4,9 @@
 ![KnowledgeTest Screenshot](./IMAGES/Week3_Results.png)
 ## Task 2.
 ![KnowledgeTest Screenshot](./IMAGES/Week3_Task3_Router.png)
-This command shows that my computer has two IP addresses. The primary is WiFi2 172.16.11.1. The Ethernet IP address is 192.168.56.1. The Ethernet IP address is used for the VirtualBox connection. 
+This command shows that my computer has two IP addresses: 
+172.16.11.1 
+192.168.56.1
 
 
 ## Task 3. 
