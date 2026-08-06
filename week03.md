@@ -36,10 +36,13 @@ eth0 IP address is 10.0.3.15
 
 eth1 IP address 192.168.56.2
 
-Capturing packets Linux Command:
+# Capturing packets Linux Command:
+
 tcpdump -i eth0 -n -w taskping.pcap 'arp or icmp'
 
-Then run the Test Connection command in Powershell. Once completed, go into WRT and stop the capture (CNTRL+C). Open Filezilla and copy the file to the Windows computer.
+Then run the Test Connection command in Powershell (Test-Connection 192.168.56.2. 
+
+Once completed, go into WRT and stop the capture (CNTRL+C). Open Filezilla and copy the file to the Windows computer.
 
 
 ## Task 5.
