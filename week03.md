@@ -25,12 +25,16 @@ There are several factors that can contribute to the delay including number of d
 
 ## Task 4. 
 The command to obtain the Linux MAC addresses is ip link.
+
 eth0 MAC address is 08:00:27:eb:70:43
+
 eth1 MAC address is 08:00:27:32:11:3e
 
 The command to obtain the IP address is ip addr
+
 eth0 IP address is 10.0.3.15
-oth1 IP address 192.168.56.2
+
+eth1 IP address 192.168.56.2
 
 Capturing packets Linux Command:
 tcpdump -i eth0 -n -w taskping.pcap 'arp or icmp'
