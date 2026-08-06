@@ -26,23 +26,19 @@ There are several factors that can contribute to the delay including number of d
 ## Task 4. 
 The command to obtain the Linux MAC addresses is ip link.
 
-eth0 MAC address is 08:00:27:eb:70:43
-
-eth1 MAC address is 08:00:27:32:11:3e
+- eth0 MAC address is 08:00:27:eb:70:43
+- eth1 MAC address is 08:00:27:32:11:3e
 
 The command to obtain the IP address is ip addr
 
-eth0 IP address is 10.0.3.15
-
-eth1 IP address 192.168.56.2
+- eth0 IP address is 10.0.3.15
+- eth1 IP address 192.168.56.2
 
 ### Capturing packets Linux Command:
 
-tcpdump -i eth0 -n -w taskping.pcap 'arp or icmp'
-
-Then run the Test Connection command in Powershell (Test-Connection 192.168.56.2. 
-
-Once completed, go into WRT and stop the capture (CNTRL+C). Open Filezilla and copy the file to the Windows computer.
+- tcpdump -i eth0 -n -w taskping.pcap 'arp or icmp'
+- Then run the Test Connection command in Powershell (Test-Connection 192.168.56.2. 
+- Once completed, go into WRT and stop the capture (CNTRL+C). Open Filezilla and copy the file to the Windows computer.
 
 
 ## Task 5.
