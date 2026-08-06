@@ -36,7 +36,7 @@ eth0 IP address is 10.0.3.15
 
 eth1 IP address 192.168.56.2
 
-# Capturing packets Linux Command:
+### Capturing packets Linux Command:
 
 tcpdump -i eth0 -n -w taskping.pcap 'arp or icmp'
 
