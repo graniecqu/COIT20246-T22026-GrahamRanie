@@ -36,7 +36,8 @@ The command to obtain the IP address is ip addr
 
 ### Capturing packets Linux Command:
 
-- tcpdump -i eth0 -n -w taskping.pcap 'arp or icmp'
+- Enter this command in WRT: tcpdump -i eth0 -n -w taskping.pcap 'arp or icmp'
+-   'arp or icmp' is a filter
 - Then run the Test Connection command in Powershell (Test-Connection 192.168.56.2. 
 - Once completed, go into WRT and stop the capture (CNTRL+C). Open Filezilla and copy the file to the Windows computer.
 
