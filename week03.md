@@ -47,6 +47,13 @@ Once completed, go into WRT and stop the capture (CNTRL+C). Open Filezilla and c
 
 ## Task 5.
 
+The five levels of breach of academic integrity are as follows:
+- Level 1: Inappropriate academic conduct
+-Level 2: Minor academic misconduct
+-Level 3: moderate academic misconduct
+-Level 4: Substantial academic misconduct
+-Level 5: Serious academic misconduct
+
 ## Task 6.
 
 ## Task 7.
