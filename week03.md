@@ -68,4 +68,5 @@ In Powershell the command Resolve-DnsName www.1800flowers.com provided the IP ad
 ![Task8 Screenshot](./IMAGES/Week3_Task8_SpeedTest1.png) 
 
 The connection type is WiFi. The ISP is Gigafy.
+
 At 10.30am, the speed of 93.94 Mbps. 
