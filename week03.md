@@ -52,6 +52,11 @@ The five levels of breach of academic integrity are as follows:
 - Level 5: Serious academic misconduct
 
 ## Task 6.
+Website: www.1800flowers.com
+
+In Powershell the command Resolve-DnsName www.1800flowers.com provided the following output:
+
+
 
 ## Task 7.
 
