@@ -62,3 +62,6 @@ In Powershell the command Resolve-DnsName www.1800flowers.com provided the IP ad
 ![Task6 Screenshot](./IMAGES/Week3_Task6_DNS.png)
 
 ## Task 8.
+
+Wifi Router IP Address: 172.16.11.189
+
