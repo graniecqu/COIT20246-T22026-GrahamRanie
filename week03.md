@@ -69,4 +69,7 @@ In Powershell the command Resolve-DnsName www.1800flowers.com provided the IP ad
 
 The connection type is WiFi. The ISP is Gigafy.
 
-At 10.30am, the speed of 93.94 Mbps. 
+At 10.30am Friday 7/8/2026, the speed of 93.94 Mbps. 
+
+At 11:56am on Saturday 8/8/2026 the speed was slightly lower at 90.01 Mbps. It's not a huge decrease, but it could be likely due to it being a weekend, more people are home connected to devices.
+![Task8 Screenshot](./IMAGES/Week3_Task8_SpeedTest2.png) 
