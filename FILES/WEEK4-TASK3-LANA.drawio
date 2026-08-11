@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Ktv7l7_EIi2xh_JZW0Yv">
+    <mxGraphModel dx="1017" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ItydjNjrw24LAVFSFEiO-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="270" as="sourcePoint" />
+            <mxPoint x="480" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItydjNjrw24LAVFSFEiO-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.7;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="404" y="321" as="sourcePoint" />
+            <mxPoint x="480" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItydjNjrw24LAVFSFEiO-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="320" as="sourcePoint" />
+            <mxPoint x="280" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItydjNjrw24LAVFSFEiO-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="220" as="sourcePoint" />
+            <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItydjNjrw24LAVFSFEiO-10" parent="1" style="html=1;whiteSpace=wrap;" value="H1" vertex="1">
+          <mxGeometry height="100" width="120" x="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ItydjNjrw24LAVFSFEiO-11" parent="1" style="html=1;whiteSpace=wrap;" value="H2" vertex="1">
+          <mxGeometry height="100" width="120" x="480" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ItydjNjrw24LAVFSFEiO-12" parent="1" style="html=1;whiteSpace=wrap;" value="H3" vertex="1">
+          <mxGeometry height="100" width="120" x="480" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ItydjNjrw24LAVFSFEiO-13" parent="1" style="html=1;whiteSpace=wrap;" value="H4" vertex="1">
+          <mxGeometry height="100" width="120" x="160" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ItydjNjrw24LAVFSFEiO-14" parent="1" style="html=1;whiteSpace=wrap;" value="SWITCH" vertex="1">
+          <mxGeometry height="50" width="120" x="320" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ItydjNjrw24LAVFSFEiO-16" parent="1" style="html=1;whiteSpace=wrap;" value="Graham Ranie Week4-Task3-LanA" vertex="1">
+          <mxGeometry height="50" width="210" x="40" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
