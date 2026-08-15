@@ -1,0 +1,43 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="KNUDpJEPktnC8VKABsjG">
+    <mxGraphModel dx="809" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="deb9q6HPi8B_7isP3o3g-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ethernet Header" vertex="1">
+          <mxGeometry height="60" width="137.5" x="92.5" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="deb9q6HPi8B_7isP3o3g-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ARP Message" vertex="1">
+          <mxGeometry height="60" width="137.5" x="230" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="deb9q6HPi8B_7isP3o3g-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="42 Bytes" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="deb9q6HPi8B_7isP3o3g-5" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="82" as="sourcePoint" />
+            <mxPoint x="370" y="82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deb9q6HPi8B_7isP3o3g-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="14 Bytes" vertex="1">
+          <mxGeometry height="30" width="60" x="131.25" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="deb9q6HPi8B_7isP3o3g-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="28 Bytes" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="deb9q6HPi8B_7isP3o3g-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Source&amp;nbsp;08:00:27:eb:70:43" vertex="1">
+          <mxGeometry height="30" width="155" x="83.75" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="deb9q6HPi8B_7isP3o3g-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dest 0a:00:27:00:00:16" vertex="1">
+          <mxGeometry height="30" width="155" x="80" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="deb9q6HPi8B_7isP3o3g-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Target IP&amp;nbsp;192.168.56.1" vertex="1">
+          <mxGeometry height="30" width="130" x="235" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="deb9q6HPi8B_7isP3o3g-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Graham Ranie&lt;div&gt;Created 15 Aug 2026&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="184.37" x="224.38" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,52 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="go9VNFCJuN2QL7xSlPtw">
+    <mxGraphModel dx="1078" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ethernet" vertex="1">
+          <mxGeometry height="60" width="155" x="218.12" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IP" vertex="1">
+          <mxGeometry height="60" width="155" x="368.75" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ICMP Echo Request" vertex="1">
+          <mxGeometry height="60" width="230" x="516.25" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-4" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220.62" y="200" as="sourcePoint" />
+            <mxPoint x="750.62" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="98 Bytes" vertex="1">
+          <mxGeometry height="30" width="60" x="430.62" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="14 Bytes" vertex="1">
+          <mxGeometry height="30" width="60" x="265.62" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="20 Bytes" vertex="1">
+          <mxGeometry height="30" width="60" x="412.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="64 Bytes" vertex="1">
+          <mxGeometry height="30" width="60" x="601.25" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dest 0a:00:27:00:00:16" vertex="1">
+          <mxGeometry height="30" width="155" x="210" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Source&amp;nbsp;08:00:27:eb:70:43" vertex="1">
+          <mxGeometry height="30" width="155" x="213.75" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dest 192.168.56.1" vertex="1">
+          <mxGeometry height="30" width="155" x="350.62" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Source Src: 192.168.56.2&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="155" x="365" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RYrWxZsfUbkhr7uGKRnP-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Graham Ranie&lt;div&gt;Created 15 Aug 2026&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="184.37" x="400.62" y="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
