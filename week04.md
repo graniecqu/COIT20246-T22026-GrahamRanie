@@ -13,7 +13,7 @@ Projection Initiation - Completed.
 ## Task 4. Analyse Ping Packet Capture
 ![ARP Screenshot](./IMAGES/WEEK4-TASK4-PingPacketARP.png)
 
-The image above is the ARP packet from my pcap file. The purpose of an ARP is to broadcast a message to all devices on the network to determine which device has the IP address requested. Then that device responds with the MAC address. 
+The image above is the ARP packet from my pcap file. The purpose of an ARP is to broadcast a message to all devices on the network to determine which device has the IP address requested. Then that device responds with the address so that the Ping test can be completed. 
 
 ![ICMP Screenshot](./IMAGES/WEEK4-TASK4-PingPacketICMP.png)
 
