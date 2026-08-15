@@ -22,3 +22,8 @@ The image above is the ICMP packet from my pcap file. The purpose of an ICMP is 
 
 ## Task 5. View ARP Table
 
+![ARP Screenshot](./IMAGES/png)
+
+
+
+List the MAC addresses of at least two other devices you discovered are “Reachable” by viewing theARP table. Explain which computer these MAC addresses belong to and why. (E.g. is it anothercomputer in the lab? Why do you think that?)
