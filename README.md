@@ -10,7 +10,7 @@
 1. [Computer Systems and Applications](./week02.md)
 1. [Computer Networks and the Internet](./week03.md)
 1. [Network Technologies](./week04.md)
-1. ...
+1. [Internet Applications](./week05.md)
 
 ## Quick Links
 - [Moodle](https://moodle.cqu.edu.au/course/view.php?id=84650)
