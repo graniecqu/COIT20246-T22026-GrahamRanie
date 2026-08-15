@@ -1,7 +1,7 @@
 # Week 4 Journal Entry
 
 ## Task 1. Knowledge test results
-![KnowledgeTest Screenshot](./IMAGES/Week3_Results.png)
+![KnowledgeTest Screenshot](./IMAGES/Week4_Results.png)
 ## Task 2.
 Projection Initiation - Completed.
 
