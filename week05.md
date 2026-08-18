@@ -1,7 +1,7 @@
 # Week 5 Journal Entry
 
 ## Task 1. Knowledge test results
-![KnowledgeTest Screenshot](./IMAGES/tbA.png)
+![KnowledgeTest Screenshot](./IMAGES/Week5_Results.png)
 
 
 ## Task 2. View Routing Table
