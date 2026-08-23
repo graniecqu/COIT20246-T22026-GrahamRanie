@@ -25,7 +25,7 @@ TBC with group project
 ## Task 4. Academic Integrety Outcomes
 
 
-Scenario: a student has an assignment due on Friday, but they haven't started until Thursday. A friend of theirs offers to provide their own assignment to help write the assignment.
+**Scenario:** a student has an assignment due on Friday, but they haven't started until Thursday. A friend of theirs offers to provide their own assignment to help write the assignment.
 
 a) They could have started earlier and/or reached out to their lecturer for guidance.
 
