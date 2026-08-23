@@ -5,7 +5,7 @@
 
 
 ## Task 2. View Routing Table
-
+![routing table Screenshot](./IMAGES/Week5_RoutingTable.png)
 
 ## Task 3. IP Network Design
 
