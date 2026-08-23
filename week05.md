@@ -20,9 +20,20 @@ The routing table shows 9 routes on my computer.
 
 ## Task 3. IP Network Design
 
-
+TBC with group project
 
 ## Task 4. Academic Integrety Outcomes
+
+
+Scenario: a student has an assignment due on Friday, but they haven't started until Thursday. A friend of theirs offers to provide their own assignment to help write the assignment.
+
+a) They could have started earlier and/or reached out to their lecturer for guidance.
+
+b) WHAT level of breach
+
+c) The ramifications include that the student hasn't learnt what is required of them. This could impact future job prospects because it could create a gap in their knowledge. 
+
+
 
 ## Task 45 IP Address Lookup
 
