@@ -36,6 +36,6 @@ c) The ramifications include that the student hasn't learnt what is required of 
 
 ## Task 5 IP Address Lookup
 
-
+The result shows my correct location in Brisbane and it also shows the correct ISP; Gigafy. 
 
 
