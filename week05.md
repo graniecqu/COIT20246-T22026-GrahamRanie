@@ -36,6 +36,6 @@ c) The ramifications include that the student hasn't learnt what is required of 
 
 ## Task 5 IP Address Lookup
 
-The result shows my correct location in Brisbane and it also shows the correct ISP; Gigafy. 
+When I run the search on my home computer, the results shows my correct location in Brisbane and it also shows the correct ISP; Gigafy. However, when I run the search on my iPhone, on the same WiFi connection, it incorrectly places my location in Melbourne. Apple does use iCloud private relay which is likely hiding my correct location, hence the discrepancy on my mobile device. The IPv4 addresses on both searches are different and don't match the correct IP address. This is because the service provides a public IP address. This will show, instead of the correct address, for added security. This ensures users to surf the web with added protection. 
 
 
