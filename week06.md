@@ -38,6 +38,10 @@ e)The value of the referrer is http://192.168.56.2/. This identifies the request
 
 f) This learnt that I was using Google Chrome to open the webpage and that I was using Windows.
 
+g) The version of HTTP used is 1.1. The transport protocol being used is TCP. 
 
+h) The TCP began at packet 11 and the data transfer began at packet 17. The time it took was 0.001086 seconds.
+
+i) There was an acknowledgement at packet 12 and 15. The acknowledgement is sent when the destination receives and processes the request.
 
 ## Task 5. View Your Cookies
