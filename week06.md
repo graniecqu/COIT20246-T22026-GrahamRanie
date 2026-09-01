@@ -31,7 +31,12 @@ TCP Source 56235
 c) The browser doesn't show that a request was sent. Because this is Java and it runs locally.
 
 d)
+
 ![PCAP Screenshot](./IMAGES/Week6_Task4_Packet.png)
+
+e)
+
+f)
 
 
 
