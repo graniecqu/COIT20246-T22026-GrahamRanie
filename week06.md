@@ -6,7 +6,7 @@
 
 ## Task 2
 
-
+![html Screenshot](./IMAGES/Week6_Task2.png)
 
 
 ## Task 3. 
