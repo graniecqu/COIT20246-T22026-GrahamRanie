@@ -2,10 +2,26 @@
 <head>
 <title> Graham's Example Page - Week 6 Task 2 </title>
 </head>
+<style>
+body {color: red}
+h1 {color: black}
+button {color: black}
+"demo" {color: blue}
+
+</style>
+
 <body>
 <h1> 12342088 </h1>
 <p>
-This is my page that I created in Open WRT for Task 2
+Graham's page for Week 6, task 2
 </p>
+
+<button type="button" onclick="document.getElementById('demo').innerHTML =
+ Date()">
+Click me to display Date and Time.</button>
+
+
+<p id="demo"></p>
+
 </body>
 </html>
