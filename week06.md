@@ -11,6 +11,7 @@
 
 ## Task 3. Capture HTTP Packets
 
+![ARP Screenshot](./IMAGES/Week6_task3_ARP.png)
 
 ## Task 4. Analyse HTTP Packet Capture
 
