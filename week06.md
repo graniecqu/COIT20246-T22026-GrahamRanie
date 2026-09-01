@@ -34,9 +34,9 @@ d)
 
 ![PCAP Screenshot](./IMAGES/Week6_Task4_Packet.png)
 
-e)
+e)The value of the referrer is http://192.168.56.2/. This identifies the request of the web page when requesting the 12342088.html page.   Web servers can use this information to monitor traffic.
 
-f)
+f) This learnt that I was using Google Chrome to open the webpage and that I was using Windows.
 
 
 
