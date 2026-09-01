@@ -13,6 +13,8 @@
 
 ![ARP Screenshot](./IMAGES/Week6_task3_ARP.png)
 
+The following device is reachable by my computer: 172.16.11.1. Device 172.16.11.180 showed as "Stale". So I pinged the device, ran the prompt for the ARP Table again, and it shows as being "reachable".
+
 ## Task 4. Analyse HTTP Packet Capture
 
 
