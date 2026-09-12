@@ -15,5 +15,8 @@
 
 
 ## Task 3
+Currently the WPA2 is selected. I would consider changing this to WPA3 because WPA3 provides enhanced security. 
+
+![Task3 Screenshot](./IMAGES/Week7_task3.png)
 
 ## Task 4
