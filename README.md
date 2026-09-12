@@ -12,6 +12,7 @@
 1. [Network Technologies](./week04.md)
 1. [Internet Applications](./week05.md)
 1. [Wireless Networks](./week06.md)
+1. [Wi-Fi](./week07.md)
 
 ## Quick Links
 - [Moodle](https://moodle.cqu.edu.au/course/view.php?id=84650)
