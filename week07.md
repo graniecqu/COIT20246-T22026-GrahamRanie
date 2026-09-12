@@ -17,6 +17,6 @@
 ## Task 3
 When designing a WiFi network, security features needs to be considered. For my own network, the Wi-Fi Protected Access 2 (WPA2) is selected. While WPA2 does have security features, I would consider changing this to WPA3. This is because WPA3 provides enhanced security. 
 
-![Task3 Screenshot](./IMAGES/Week7_task3.png)
+
 
 ## Task 4
