@@ -38,3 +38,7 @@ When designing a WiFi network, security features needs to be considered. For my 
 - **Create accountability** - we each take responsibility for our own tasks.
 - **Reflect after projects** - We haven't reached this stage yet.
 ![Task4 Screenshot](./IMAGES/Week7_AIprompt.png)
+
+Up until this week, the contributions have been fairly similar. I haven't contributed as much this week due to commitments outside of uni. However, on the weekend I plan on catching up and adding more content to the page. 
+
+![Task4 Screenshot](./IMAGES/Week7_task4.png)
