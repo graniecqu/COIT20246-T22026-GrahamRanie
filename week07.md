@@ -20,7 +20,9 @@ When designing a WiFi network, security features needs to be considered. For my 
 ![Task3 Screenshot](./IMAGES/Week7_task3.png)
 
 ## Task 4
-- Communicate clearly: In our weekly catch ups, we discuss what each of our responsibilities are. We ask each other if we need anything from the other person to help.
+![Task4 Screenshot](./IMAGES/Week7_AIprompt.png)
+
+- #Communicate clearly#: In our weekly catch ups, we discuss what each of our responsibilities are. We ask each other if we need anything from the other person to help.
 - Define roles and Responsibilities - each week, we set out our work load for the week.
 - Set clear goals - we have a plan in place, hoping to meet the goals.
 - Listen to each other - we ask each other questions so that we each contribute.
