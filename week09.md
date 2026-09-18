@@ -27,8 +27,11 @@ Motivation: wants to get access to the company database to steal data to hold to
 • Threat Source 2: Thief  
 Motivation: wants to steal the company's physical assets 
 
-• Threat Source 2: Thief  
-Motivation: wants to steal the company's physical assets
+• Threat Source 3: Natural disaster (storm, fire etc)  
+Motivation: the unintended destruction of company property
+
+• Threat Source 4: Vandals  
+Motivation: the intentional destruction of company property
 
 
 ## Task 4. Explore Vulnerabilities 
