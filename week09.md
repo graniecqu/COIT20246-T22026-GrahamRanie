@@ -19,3 +19,19 @@
 **Asset 4: Financials**  
 *Protection:* Integrity  
 *Reason:* Theft of money can lead to reputational damage  
+
+## Task 3. Threat Sources and Motivations
+• Threat Source 1: Hacker  
+Motivation: wants to get access to the company database to steal data to hold to ransom
+
+• Threat Source 2: Thief  
+Motivation: wants to steal the company's physical assets 
+
+• Threat Source 2: Thief  
+Motivation: wants to steal the company's physical assets
+
+
+## Task 4. Explore Vulnerabilities 
+
+
+## Task 5. Vulnerability Disclosures
