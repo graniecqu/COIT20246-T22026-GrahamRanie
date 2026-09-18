@@ -1,7 +1,7 @@
 # Week 8 Journal Entry
 
 ## Task 1. Knowledge test results
-![KnowledgeTest Screenshot](./IMAGES/Week8_KnowledgeTest.png)
+![KnowledgeTest Screenshot](./IMAGES/Week8_knowledgetest.png)
 
 ## Task 2. Login to Microsoft Learn on Demand
 
