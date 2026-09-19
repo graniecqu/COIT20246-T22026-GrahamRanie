@@ -71,3 +71,12 @@ Motivation: the intentional destruction of company property
 
 
 ## Task 5. Vulnerability Disclosures
+
+To ensure that the appropriate fix can be released, the vendor may need time to ensure they understand the problem. This will help to ensure that the right remediation can be released to the public. Further to this, it is recommended that vendors should be made aware of vulnerabilities via private disclosure (OWASP, n.d. and Microsoft, n.d.). OWASP (n.d.) says that organisations may request that the vulnerability is not made public until such a time that a fix can be implemented. OWASP (n.d.) also suggests that by going public too early, attackers may be able to take advantage of the vulnerability if it is released to the public before the appropriate fix is created.
+  
+While I don't have the answer to what is acceptable, I believe that a time limit should be placed. Google's Project Zero (Willis, 2020) has set a policy of 90 days for when they will publicly disclosure the bug details. This is irrespective of whether the vendor has a patch available. Willis (2020) states by setting a clear goal, this encourages faster patch development. Although, this does go against the guidance provided by OWASP, that the public release of vulnerabilities could allow attackers to take advantage. 
+  
+**References**
+Microsoft. n.d. Microsoft's Approach to Coordinated Vulnerability Disclosure. Microsoft. https://www.microsoft.com/en-us/msrc/cvd 
+OWASP. n.d. Vulnerability Disclosure Cheat Sheet. OWASP. https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html
+Willis, T. 2020. Policy and Disclosure: 2020 Edition. Google. https://projectzero.google/2020/01/policy-and-disclosure-2020-edition.html 
