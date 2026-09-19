@@ -47,7 +47,7 @@ The initial up-front cost is higher for the desktop PC, however over the 12-mont
   
 ## Task 6. Create a Storage Blob in Azur  
   
-The learning modules did not have this particular module. The closest to the module, was also what I completed in Task 3. However, this did not include any image upload functionality.  
+The learning modules did not have this particular module. The closest to the module, was also what I completed in Task 3. The module completed in task 3 did not have any tasks pertaining to uploading images.  
 
 ## Task 7. Create a Resource Lock  
 Explain the difference between a read-only lock and a delete lock.
