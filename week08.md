@@ -17,4 +17,16 @@ In this activity, I created a Resource Group and within this I created the follo
 ## Task 4. Create an Azure Virtual Machine and Allow Web Access  
 Similiar to task 3, the modules differ now to when the instructions were provided. For this task I have completed *Build a simple website endpoint with Azure Functions.*  
 
+AZ Commands used to create the page:  
+mkdir func-gp-endpoint && cd func-gp-endpoint  
+func init --worker-runtime node --language javascript --model V4  
+func new --name GetStatus --template "HTTP trigger" --authlevel anonymous  
+ls src/functions/  
+FUNC_APP_NAME=$(az functionapp list --resource-group rg-gp-functions-endpoint --query "[0].name" -o tsv)
+echo $FUNC_APP_NAME  
+func azure functionapp publish $FUNC_APP_NAME
+  
+URL of the webpage: https://func-gp-endpoint-65259031-chg9dmdug8heavbc.westus3-01.azurewebsites.net/api/getstatus">func-gp-endpoint-65259031-chg9dmdug8heavbc.westus3-01.azurewebsites.net
+  
+
 ![Screenshot](./IMAGES/Azure_VM.png)
