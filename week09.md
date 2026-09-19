@@ -57,6 +57,17 @@ Motivation: the intentional destruction of company property
 **Simple Explanation of the Vulnerability:** There is a chance that the vulnerability could allow a hacker could obtain sensitive information.   
 **Detection/ Mitigation techniques:** Update Chrome to version 148.0.7778.216 or newer on Mac OS, Launch Chrome and navigate to chrome://flags, enable the "WebRTC‑Controlled By Policy" flag, and set it to Disabled to temporarily block WebRTC functionality, and Avoid visiting untrusted or suspicious websites; consider using an ad–blocker or a content‑filtering extension to reduce exposure to malicious HTML
 
+**Vulnerability 3 ID:** CVE-2021-33045  
+**CVE Description:** The identity authentication bypass vulnerability found in some Dahua products during the login process. Attackers can bypass device identity authentication by constructing malicious data packets.  
+**Date:** 15 September 2021  
+**CVSS Version 3 Score:** 9.8 Critical  
+**Impact on CIA:** C = High, I = High, Availability = High  
+**CWE ID and Name:** CWE-287, Improper Authentication  
+**Company:** Dahua  
+**Description of product effected (name and what it is for):** Dahua provides CCTV products. 
+**Simple Explanation of the Vulnerability:** There is a vulnerability in the devices that allow a hacker to bypass the authentication. 
+**Detection/ Mitigation techniques:** There is currently no remediation available yet.  
+
 
 
 ## Task 5. Vulnerability Disclosures
