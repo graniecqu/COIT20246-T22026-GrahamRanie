@@ -15,4 +15,6 @@ In this activity, I created a Resource Group and within this I created the follo
 **Index and 404 HTML files** - These resources are used to display the webpages.
 
 ## Task 4. Create an Azure Virtual Machine and Allow Web Access  
-Similiar to task 3, the modules differ now to when the instructions were provided. For this task I have completed *Module 6: Deploy an Azure Virtual Machine.*  
+Similiar to task 3, the modules differ now to when the instructions were provided. For this task I have completed *Build a simple website endpoint with Azure Functions.*  
+
+![Screenshot](./IMAGES/Azure_VM.png)
