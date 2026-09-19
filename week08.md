@@ -9,6 +9,7 @@ Completed
 
 ## Task 3. Create an Azure Resource
 I was a bit confused as to what to do, as the training program has been updated since the instructions were provided and module names and content have been updated. I completed *Module 1: Deploy a Static website with Azure Blob-Storage.*  
+  
 In this activity, I created a Resource Group and within this I created the following resources:  
 **Storage Account** - This resource is used to host the website files.  
 **Static Website Hosting** - This creates a resource where the user can upload the site files and provides a public URL.
@@ -33,8 +34,14 @@ URL of the webpage: https://func-gp-endpoint-65259031-chg9dmdug8heavbc.westus3-0
 
 ## Task 5. Compare Cloud vs On-premise Costs  
   
+|Machine| Cost |
+| :-----|-----: |
+|Lenovo New 50Q G4 Tiny PC 16GB Ram 512 GB| $1,305.95|
+|1 B4as v2 (4 vCPUs, 16 GB RAM) x 730 Hours  Windows (License included)| $211.14 per month|
+
+The initial up-front cost is higher for the desktop PC, however over the 12-month period, the cost of the virtual machine is higher. The initial outlay could be lower for businesses using a virtual machine, and it does come with lower risks. The business would not need to worry about replacing physical equipment or needing to worry about security risks. the cost of the VM also includes a Windows license. However, in the long-term, the VM is going to cost the business more, as 12 months, the business has already spent more on the VM then the one off fee of the desktop PC.  
+
 ![Screenshot](./IMAGES/PC_Cost.png)  
   
 ![Screenshot](./IMAGES/VM_cost.png)
 
-The initial up-front cost is higher for the desktop PC, however over the 12-month period, the cost of the virtual machine is higher. The initial outlay could be lower for businesses using a virtual machine, and it does come with lower risks. The business would not need to worry about replacing physical equipment or needing to worry about security risks. the cost of the VM also includes a Windows license. However, in the long-term, the VM is going to cost the business more, as 12 months, the business has already spent more on the VM then the one off fee of the desktop PC.
