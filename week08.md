@@ -32,3 +32,5 @@ URL of the webpage: https://func-gp-endpoint-65259031-chg9dmdug8heavbc.westus3-0
 ![Screenshot](./IMAGES/Azure_VM.png)
 
 ## Task 5. Compare Cloud vs On-premise Costs  
+![Screenshot](./IMAGES/PC_Cost.png)  
+![Screenshot](./IMAGES/VM_Cost.png)
