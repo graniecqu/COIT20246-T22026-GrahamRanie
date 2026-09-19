@@ -35,16 +35,16 @@ Motivation: the intentional destruction of company property
 
 
 ## Task 4. Explore Vulnerabilities   
-*Vulnerability 1 ID:* CVE-2026-9990  
-*CVE Description:* Use after free in WebAppInstalls in Google Chrome on Mac prior to 148.0.7778.216 allowed a remote attacker who convinced a user to engage in specific UI gestures to potentially exploit heap corruption via a crafted HTML page.   
-#Date:# 28 May 2026  
-#CVSS Version 3 Score:# 7.5 High  
-#Impact on CIA:# C = High, I = High, A = High  
-#CWE ID and Name:# CWE-416 - Use After Free  
-#Company:# Google   
-#Description of product effected (name and what it is for): Google Chrome on Mac prior to 148.0.7778.216. Chrome is Google's web browser.  
-#Simple Explanation of the Vulnerability:# An attacker could take advantage of the vulnerability to create a malicious HTML file.
-#Detection/ Mitigation techniques:# Apply the official Chrome update to 148.0.7778.216.
+**Vulnerability 1 ID:** CVE-2026-9990  
+**CVE Description:** Use after free in WebAppInstalls in Google Chrome on Mac prior to 148.0.7778.216 allowed a remote attacker who convinced a user to engage in specific UI gestures to potentially exploit heap corruption via a crafted HTML page.   
+**Date:** 28 May 2026  
+**CVSS Version 3 Score:** 7.5 High  
+**Impact on CIA:** C = High, I = High, A = High  
+**CWE ID and Name:** CWE-416 - Use After Free  
+**Company:** Google   
+**Description of product effected (name and what it is for):** Google Chrome on Mac prior to 148.0.7778.216. Chrome is Google's web browser.  
+**Simple Explanation of the Vulnerability:** An attacker could take advantage of the vulnerability to create a malicious HTML file.
+**Detection/ Mitigation techniques:** Apply the official Chrome update to 148.0.7778.216.
 
 
 ## Task 5. Vulnerability Disclosures
