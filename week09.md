@@ -63,9 +63,9 @@ Motivation: the intentional destruction of company property
 **CVSS Version 3 Score:** 9.8 Critical  
 **Impact on CIA:** C = High, I = High, Availability = High  
 **CWE ID and Name:** CWE-287, Improper Authentication  
-**Company:** Dahua  
-**Description of product effected (name and what it is for):** Dahua provides CCTV products. 
-**Simple Explanation of the Vulnerability:** There is a vulnerability in the devices that allow a hacker to bypass the authentication. 
+**Company:** Dahua    
+**Description of product effected (name and what it is for):** Dahua provides CCTV products.  
+**Simple Explanation of the Vulnerability:** There is a vulnerability in the devices that allow a hacker to bypass the authentication.  
 **Detection/ Mitigation techniques:** There is currently no remediation available yet.  
 
 
