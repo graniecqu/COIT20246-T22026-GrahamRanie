@@ -44,4 +44,9 @@ The initial up-front cost is higher for the desktop PC, however over the 12-mont
 ![Screenshot](./IMAGES/PC_Cost.png)  
   
 ![Screenshot](./IMAGES/VM_cost.png)
+  
+## Task 6. Create a Storage Blob in Azur  
 
+
+## Task 7. Create a Resource Lock  
+• Explain the difference between a read-only lock and a delete lock.
