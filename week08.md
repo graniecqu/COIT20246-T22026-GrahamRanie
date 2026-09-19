@@ -46,7 +46,9 @@ The initial up-front cost is higher for the desktop PC, however over the 12-mont
 ![Screenshot](./IMAGES/VM_cost.png)
   
 ## Task 6. Create a Storage Blob in Azur  
-
+  
+• Include a screenshot that shows one of the images and the full URL to access the image.  
+• Include a screenshot of your Azure Portal resources that show the container(s).
 
 ## Task 7. Create a Resource Lock  
 Explain the difference between a read-only lock and a delete lock.
