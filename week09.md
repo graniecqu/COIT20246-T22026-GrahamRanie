@@ -35,8 +35,8 @@ Motivation: the intentional destruction of company property
 
 
 ## Task 4. Explore Vulnerabilities   
-#Vulnerability 1 ID:# CVE-2026-9990  
-#CVE Description:# Use after free in WebAppInstalls in Google Chrome on Mac prior to 148.0.7778.216 allowed a remote attacker who convinced a user to engage in specific UI gestures to potentially exploit heap corruption via a crafted HTML page.   
+*Vulnerability 1 ID:* CVE-2026-9990  
+*CVE Description:* Use after free in WebAppInstalls in Google Chrome on Mac prior to 148.0.7778.216 allowed a remote attacker who convinced a user to engage in specific UI gestures to potentially exploit heap corruption via a crafted HTML page.   
 #Date:# 28 May 2026  
 #CVSS Version 3 Score:# 7.5 High  
 #Impact on CIA:# C = High, I = High, A = High  
