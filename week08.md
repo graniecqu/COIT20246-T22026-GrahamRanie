@@ -49,4 +49,6 @@ The initial up-front cost is higher for the desktop PC, however over the 12-mont
 
 
 ## Task 7. Create a Resource Lock  
-• Explain the difference between a read-only lock and a delete lock.
+Explain the difference between a read-only lock and a delete lock.
+  
+A delete lock prevents the storage account from being accidentally removed. This allows read and write access but stops it from being deleted until the lock is removed. The red-only lock prevents modifications from being made.
