@@ -36,3 +36,5 @@ URL of the webpage: https://func-gp-endpoint-65259031-chg9dmdug8heavbc.westus3-0
 ![Screenshot](./IMAGES/PC_Cost.png)  
   
 ![Screenshot](./IMAGES/VM_cost.png)
+
+The initial up-front cost is higher for the desktop PC, however over the 12-month period, the cost of the virtual machine is higher. The initial outlay could be lower for businesses using a virtual machine, and it does come with lower risks. The business would not need to worry about replacing physical equipment or needing to worry about security risks. the cost of the VM also includes a Windows license. However, in the long-term, the VM is going to cost the business more, as 12 months, the business has already spent more on the VM then the one off fee of the desktop PC.
